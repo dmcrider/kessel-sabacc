@@ -15,10 +15,10 @@ I'm mainly using this as an opportunity to learn React, so code-reviews and sugg
 - [x] End the game early     
 
 ### Still need to implement
-- [] Opponent turns are too fast?
-- [] Not all win criteria is implemented
-- [] Add card graphics
-- [] Add opponent face graphics
+- [ ] Opponent turns are too fast?
+- [ ] Not all win criteria is implemented
+- [ ] Add card graphics
+- [ ] Add opponent face graphics
 
 ## Learn More
 
