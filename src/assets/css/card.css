@@ -1,0 +1,26 @@
+:root{
+    --background-blood: rgb(134, 34, 34);
+    --background-sand: rgb(230, 227, 189);
+}
+
+.blood{
+    background-color: var(--background-blood);
+    color: white;
+    border: 1px solid var(--background-blood) !important;
+}
+
+.sand{
+    background-color: var(--background-sand);
+    color: black;
+    border: 1px solid var(--background-sand) !important;
+}
+
+.kessel-card{
+    margin: 1rem;
+    padding: 1rem;
+}
+
+.btn-basic{
+    margin: 0.5rem;
+    border: 1px solid black;
+}
